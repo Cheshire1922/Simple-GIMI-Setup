@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GIMISetup", "GIMISetup\GIMISetup.vbproj", "{ECC84C81-F3CE-4CA4-8CB2-7114C24F21EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC84C81-F3CE-4CA4-8CB2-7114C24F21EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC84C81-F3CE-4CA4-8CB2-7114C24F21EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC84C81-F3CE-4CA4-8CB2-7114C24F21EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC84C81-F3CE-4CA4-8CB2-7114C24F21EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A67CD8D3-BC36-4BFB-AEC4-10F8C50B9F95}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\david\source\repos\GIMISetup\GIMISetup\bin\Debug\net6.0-windows\GIMISetup.exe
+C:\Users\david\source\repos\GIMISetup\GIMISetup\bin\Debug\net6.0-windows\GIMISetup.deps.json
+C:\Users\david\source\repos\GIMISetup\GIMISetup\bin\Debug\net6.0-windows\GIMISetup.runtimeconfig.json
+C:\Users\david\source\repos\GIMISetup\GIMISetup\bin\Debug\net6.0-windows\GIMISetup.dll
+C:\Users\david\source\repos\GIMISetup\GIMISetup\bin\Debug\net6.0-windows\GIMISetup.pdb
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\GIMISetup.vbproj.AssemblyReference.cache
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\GIMISetup.Form1.resources
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\GIMISetup.vbproj.GenerateResource.cache
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\GIMISetup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\GIMISetup.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\GIMISetup.AssemblyInfo.vb
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\GIMISetup.vbproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\GIMISetup.dll
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\refint\GIMISetup.dll
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\GIMISetup.pdb
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\GIMISetup.genruntimeconfig.cache
+C:\Users\david\source\repos\GIMISetup\GIMISetup\obj\Debug\net6.0-windows\ref\GIMISetup.dll
