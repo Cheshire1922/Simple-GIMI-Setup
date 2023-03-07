@@ -6,6 +6,6 @@ This program will help beginners setup [GI-Model-Importer](https://github.com/Si
 1. Select the d3dx.ini from the 3DMigoto folder  
 2. Select your game .exe (Must be named GenshinImpact.exe, not the launcher)  
 3. Click 'change'  
-If for some reason this doesn't work, feel free to ping me in the [Discord](https://discord.com/agmg)
+If for some reason this doesn't work, feel free to ping me in the [Discord](https://discord.gg/agmg)
   
 ![ ](https://cdn.discordapp.com/attachments/1027063731789770842/1082523223826108446/image.png)
